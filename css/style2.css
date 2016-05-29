@@ -20,6 +20,11 @@ p {
 
 }
 
+li {
+	font-size:2.25vmin;
+	text-align: justify;
+}
+
 .p2 {
 
     font-size:2.1vmin;
